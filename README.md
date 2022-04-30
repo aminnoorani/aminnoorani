@@ -1,0 +1,1 @@
+I am Amin Noorani, a bioinformatician with EpigenomeLab at the Princess Margaret Genomic Centre in Toronto. My work revolves around working with bioinformatic pipelines and single-cell data analyses. I work primarily in R and Bash
